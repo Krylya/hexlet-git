@@ -1,2 +1,1 @@
-git is awesome!
-add row
+new text
